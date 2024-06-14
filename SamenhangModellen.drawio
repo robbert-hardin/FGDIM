@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-14T14:22:00.306Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="MYPMf7ueyoT9730D3xqc" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-14T14:28:03.986Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="By261mw4DB6E2eon_QvG" version="24.5.4" type="github">
   <diagram name="Pagina-1" id="d2Lt8vPX4prabWJ2Xl2k">
     <mxGraphModel dx="1386" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,6 +18,54 @@
         </mxCell>
         <mxCell id="DOPexPxkkOPl3pUw1LUv-7" value="..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DOPexPxkkOPl3pUw1LUv-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="110" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="DOPexPxkkOPl3pUw1LUv-10" value="Basisregistratie_8" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="100" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DOPexPxkkOPl3pUw1LUv-11" value="Register_8_1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="150" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DOPexPxkkOPl3pUw1LUv-12" value="Register_8_n8" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="230" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DOPexPxkkOPl3pUw1LUv-13" value="..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DOPexPxkkOPl3pUw1LUv-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="110" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="DOPexPxkkOPl3pUw1LUv-15" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="100" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DOPexPxkkOPl3pUw1LUv-16" value="..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="150" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DOPexPxkkOPl3pUw1LUv-17" value="..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="230" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DOPexPxkkOPl3pUw1LUv-18" value="..." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DOPexPxkkOPl3pUw1LUv-19" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="70" y="280" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DOPexPxkkOPl3pUw1LUv-20" value="&lt;div&gt;Basisregistratie&lt;/div&gt;&lt;div&gt;Informatiemodel 1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="280" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DOPexPxkkOPl3pUw1LUv-22" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="590" y="280" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DOPexPxkkOPl3pUw1LUv-23" value="&lt;div&gt;Basisregistratie&lt;/div&gt;&lt;div&gt;Informatiemodel 8&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="625" y="280" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DOPexPxkkOPl3pUw1LUv-24" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="330" y="280" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DOPexPxkkOPl3pUw1LUv-25" value="&lt;div&gt;...&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="280" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
